@@ -18,7 +18,7 @@ const Intro:React.FunctionComponent =()=>{
 
         <div className="md:ml-10 sm:ml-15 md:w-1/2 ">
             <h1 className="text-7xl uppercase hidden md:block">Software Developer</h1>
-            <h1 className="text-2xl mt-5 md:text-3xl">Hi, I'm <span className="text-red-900 md:text-4xl">{userInfo.name}</span></h1>
+            <h1 className="text-2xl mt-5 md:text-3xl">Hi, I am <span className="text-red-900 md:text-4xl">{userInfo.name}</span></h1>
             <p> I am a student at GIAIC, pursuing a course in Artificial Intelligence,
                 Web 3.0, &  Metaverse. Passionate about  technology and constantly learning new skills 
                 to stay up-to-date with the latest innovations.</p>
